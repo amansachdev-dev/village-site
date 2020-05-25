@@ -83,7 +83,7 @@ hr {
 	transition: all 0.8s;
 }
 #menu.navbar-default {
-	margin-right: +200px;
+	
 	background-color: rgba(248, 248, 248, 0);
 	border-color: rgba(231, 231, 231, 0);
 }
