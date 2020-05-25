@@ -1,8 +1,12 @@
+img{
+	max-width: 100%;
+}
 body, html {
 	font-family: 'Open Sans', sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	color: #666;
+	overflow-x: hidden;
 	font-weight: 400;
 	width: 100% !important;
 	height: 100% !important;
